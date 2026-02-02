@@ -7,9 +7,11 @@ The original work was developed in a Jupyter environment for assessment purposes
 
 Contents Overview
 
-The code includes two main components:
+The code includes **two** main components:
 
-1. Neural Network Classification of 2D Data
+**1. Neural Network Classification of 2D Data**
+
+--
 
 Loading and visualisation of labelled 2D point data
 
@@ -33,7 +35,11 @@ Test-set evaluation and confusion matrix
 
 Decision-boundary visualisation
 
-2. Casting Defect Image Classification
+--
+
+**2. Casting Defect Image Classification**
+
+--
 
 Image loading using OpenCV (grayscale, resizing)
 
